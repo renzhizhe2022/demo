@@ -1,4 +1,4 @@
-package com.azhe;
+    package com.azhe;
 
 /**
  * @Description
@@ -17,5 +17,6 @@ public class test {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("renzhizhe");
+        System.out.println("你干嘛");
     }
 }
